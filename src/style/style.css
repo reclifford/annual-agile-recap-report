@@ -172,45 +172,45 @@ p.sub {
     transition: .25s;
 }
 
-#highlights .btn-aem {
+#highlights .btn-subject-1 {
     color: #FFFFFF;
     background-color: rgba(12, 37, 68, 1);
 }
 
-#highlights .btn-aem.btn-active {
+#highlights .btn-subject-1.btn-active {
     background-color: rgba(12, 37, 68, .85);
 }
 
-#highlights .btn-display {
+#highlights .btn-subject-2 {
     background-color: rgba(185, 211, 241, 1);
 }
 
-#highlights .btn-display.btn-active {
+#highlights .btn-subject-2.btn-active {
     background-color: rgba(185, 211, 241, .85);
 }
 
-#highlights .btn-foundations {
+#highlights .btn-subject-3 {
     background-color: rgba(211, 134, 53, 1);
 }
 
-#highlights .btn-foundations.btn-active {
+#highlights .btn-subject-3.btn-active {
     background-color: rgba(211, 134, 53, .85);
 }
 
-#highlights .btn-phx {
+#highlights .btn-subject-4 {
     background-color: rgba(89, 151, 226, 1);
 }
 
-#highlights .btn-phx.btn-active {
+#highlights .btn-subject-4.btn-active {
     background-color: rgba(89, 151, 226, .85);
 
 }
 
-#highlights .btn-ux {
+#highlights .btn-subject-5 {
     background-color: rgba(100, 168, 154, 1);
 }
 
-#highlights .btn-ux.btn-active {
+#highlights .btn-subject-5.btn-active {
     background-color: rgba(100, 168, 154, .85);
 }
 

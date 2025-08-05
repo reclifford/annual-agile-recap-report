@@ -43,10 +43,10 @@ as.properties.shiftRadius = 0;
 
 pieSeries.colors.list = [
     am4core.color("#0c2544"), // 1
-    am4core.color("#64a89a"), // 2
-    am4core.color("#5997e2"), // 3
-    am4core.color("#D38635"), // 4
-    am4core.color("#b9d3f1") // 5
+    am4core.color("#b9d3f1"), // 2
+    am4core.color("#D38635"), // 3
+    am4core.color("#5997e2"), // 4
+    am4core.color("#64a89a") // 5
 ];
 
 chart.legend = new am4charts.Legend();
